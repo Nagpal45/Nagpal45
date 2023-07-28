@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **vaibhavnagpal.dev@gmail.com**
 
