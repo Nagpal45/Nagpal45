@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Nagpal</h1>
 <h3 align="center">Software Developer, 3rd year CSE undergrad at JIIT</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **MERN stack**
 
