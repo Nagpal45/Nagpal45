@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Nagpal</h1>
 <h3 align="center">Software Developer, 3rd year CSE undergrad at JIIT</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagpal45&label=Profile%20views&color=0e75b6&style=flat" alt="nagpal45" /> </p>
+
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **MERN stack**
