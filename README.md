@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vaibhavnagpal.dev@gmail.com**
 
-- ⚡ Fun fact **I can listen to music all day long.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
