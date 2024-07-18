@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Next.js & MERN stack**
 
 - 📫 How to reach me **vaibhavnagpal.dev@gmail.com**
 
