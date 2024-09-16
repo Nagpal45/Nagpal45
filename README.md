@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Nagpal</h1>
-<h3 align="center">Software Developer, 3rd year CSE undergrad at JIIT</h3>
+<h3 align="center">Software Developer, final year CSE undergrad at JIIT</h3>
 
 
 
