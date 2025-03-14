@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Next.js & MERN stack**
 
