@@ -18,7 +18,9 @@
 </p>
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cpp,js, ts,html,css,jquery,bootstrap,sass,express,react,nextjs,nodejs,firebase,flask,git,mongodb,mysql,prisma,redis,redux,docker,kubernetes,linux,postman,materialui,jest,nginx,d3,aws,dynamodb,py,supabase, sentry)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,jquery,bootstrap,sass,express,react,nextjs,nodejs,firebase,flask,git,mongodb,mysql,prisma,redis,redux,docker,kubernetes,linux,postman,materialui,jest,nginx,d3,aws,dynamodb,py,supabase,sentry" />
+</a>
 
 
 <!--
