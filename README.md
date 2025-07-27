@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,jquery,bootstrap,sass,express,react,nextjs,nodejs,firebase,flask,git,mongodb,mysql,prisma,redis,redux,docker,kubernetes,linux,postman,materialui,jest,d3,aws,py,supabase,sentry" />
 </a>
 
-[![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagpal45&theme=solarized-dark)](https://git.io/Nagpal45)
+[![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagpal45&theme=merko)](https://git.io/Nagpal45)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
