@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-[![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagpal45&theme=merko)](https://git.io/Nagpal45)
+[![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagpal45&theme=rogue&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=bf91f3&hide_border=true)](https://git.io/Nagpal45)
 
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
